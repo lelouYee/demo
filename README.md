@@ -1,2 +1,2 @@
 # demo
-domeForWebDesign
+demoForWebDesign
